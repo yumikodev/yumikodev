@@ -1,16 +1,34 @@
-### Hi there 👋
+# 🌺 Hola :D
 
-<!--
-**Yumiko0828/Yumiko0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Yumiko, un chico autodidacta que le gusta el desarrollo web y que aprendio programación por su cuenta.
 
-Here are some ideas to get you started:
+- 💻 Desarrollador Web Junior
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🍂 Projectos
+
+Durante mi practica he creado diversos projectos de los cuales algunos los abandone y otros los sigo desarrollando.
+
+## Relevantes:
+
+- [Yuu-chan](http://yuu-chan.ml) Un bot de discord desarrollado con Node.js y Discord.js v13.
+- [Yutil.js](https://www.npmjs.com/package/yutil.js) Un paquete de npm escrito en TypeScript donde reutilizo funciones que he llegado a usar seguido.
+
+# 💡 Redes
+
+Mayormente uso un alias en redes donde mi cuenta sera pública.
+
+- [Twitter](https://twitter.com/Yumiko0828_)
+- [Instagram](https://www.instagram.com/yumiko0828_)
+- [Discord](https://discord.com/users/752918867273187378)
+- [NPM](https://www.npmjs.com/~yumiko0828)
+- [Replit](https://replit.com/@Yumiko0828)
+
+# 📚 Estado de Github
+
+![Yasu Yumiko Status](https://github-readme-stats.vercel.app/api?username=yumiko0828&show_icons=true&theme=radical)
+
+# 🌱 Gracias
+
+Eso es todo! supongo...
+
+- [💻 Sitio Web](https://yumiko0828.ml)
