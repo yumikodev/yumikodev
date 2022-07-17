@@ -10,7 +10,7 @@ Durante mi practica he creado diversos projectos de los cuales algunos los aband
 
 ## Relevantes:
 
-- [Yuu-chan](http://yuu-chan.ml) Un bot de discord desarrollado con Node.js y Discord.js v13.
+- [Saayu♡](https://discord.com/api/oauth2/authorize?client_id=989730866999730176&permissions=8&scope=bot%20applications.commands) Un bot de discord desarrollado con Node.js y Discord.js v13.
 - [Yutil.js](https://www.npmjs.com/package/yutil.js) Un paquete de npm escrito en TypeScript donde reutilizo funciones que he llegado a usar seguido.
 
 # 💡 Redes
