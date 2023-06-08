@@ -8,19 +8,17 @@ Soy Yumiko, un chico que le gusta el desarrollo web y que aprendió programació
 
 Con el transcurso del tiempo, aprendí muchas tecnologías y adquirí habilidades (Algunas aún las estoy estudiando, pero las coloco porque me parecieron interesantes).
 
-![My Skills](https://skillicons.dev/icons?i=html)
-![My Skills](https://skillicons.dev/icons?i=css)
-![My Skills](https://skillicons.dev/icons?i=js)
-![My Skills](https://skillicons.dev/icons?i=ts)
-![My Skills](https://skillicons.dev/icons?i=nest)
-![My Skills](https://skillicons.dev/icons?i=next)
-![My Skills](https://skillicons.dev/icons?i=sass)
-![My Skills](https://skillicons.dev/icons?i=nodejs)
-![My Skills](https://skillicons.dev/icons?i=express)
-![My Skills](https://skillicons.dev/icons?i=py)
-![My Skills](https://skillicons.dev/icons?i=dart)
-![My Skills](https://skillicons.dev/icons?i=deno)
-![My Skills](https://skillicons.dev/icons?i=react)
+![My Skill](https://skillicons.dev/icons?i=html)
+![My Skill](https://skillicons.dev/icons?i=css)
+![My Skill](https://skillicons.dev/icons?i=js)
+![My Skill](https://skillicons.dev/icons?i=ts)
+![My Skill](https://skillicons.dev/icons?i=nest)
+![My Skill](https://skillicons.dev/icons?i=next)
+![My Skill](https://skillicons.dev/icons?i=sass)
+![My Skill](https://skillicons.dev/icons?i=nodejs)
+![My Skill](https://skillicons.dev/icons?i=express)
+![My Skill](https://skillicons.dev/icons?i=deno)
+![My Skill](https://skillicons.dev/icons?i=react)
 
 # 🍂 Proyectos
 
