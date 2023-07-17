@@ -45,4 +45,4 @@ Mayormente uso un alias en internet para evitar usar mi nombre real (esto no ser
 
 Eso es todo! supongo...
 
-- [💻 Sitio Web](https://yumiko0828.ml)
+- [💻 Sitio Web](https://yasuyumiko.ml)
