@@ -39,7 +39,7 @@ Mayormente uso un alias en internet para evitar usar mi nombre real (esto no ser
 
 # 📚 Estado de Github
 
-![Yasu Yumiko Status](https://github-readme-stats.vercel.app/api?username=yumiko0828&show_icons=true&theme=radical)
+![Yasu Yumiko Status](https://github-readme-stats.vercel.app/api?username=yumikodev&show_icons=true&theme=radical)
 
 # 🌱 Gracias
 
