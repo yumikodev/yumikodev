@@ -17,13 +17,13 @@ Con el transcurso del tiempo, aprendí muchas tecnologías y adquirí habilidade
 ![My Skill](https://skillicons.dev/icons?i=ts)
 ![My Skill](https://skillicons.dev/icons?i=graphql)
 
-# Entornos de ejecución
+## Entornos de ejecución
 
 ![My Skill](https://skillicons.dev/icons?i=nodejs)
 ![My Skill](https://skillicons.dev/icons?i=deno)
 ![My Skill](https://skillicons.dev/icons?i=bun)
 
-# Frameworks
+## Frameworks
 
 ![My Skill](https://skillicons.dev/icons?i=express)
 ![My Skill](https://skillicons.dev/icons?i=nest)
@@ -33,9 +33,15 @@ Con el transcurso del tiempo, aprendí muchas tecnologías y adquirí habilidade
 ![My Skill](https://skillicons.dev/icons?i=astro)
 ![My Skill](https://skillicons.dev/icons?i=tailwind)
 
-# Bases de datos & ORMs
+## Bases de datos & ORMs
+
 ![My Skill](https://skillicons.dev/icons?i=prisma)
 ![My Skill](https://skillicons.dev/icons?i=mongo)
+
+## Otros
+
+![My Skill](https://skillicons.dev/icons?i=git)
+![My Skill](https://skillicons.dev/icons?i=github)
 
 # 🍂 Proyectos
 
