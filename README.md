@@ -8,17 +8,34 @@ Soy Yumiko, un chico que le gusta el desarrollo web y que aprendió programació
 
 Con el transcurso del tiempo, aprendí muchas tecnologías y adquirí habilidades (Algunas aún las estoy estudiando, pero las coloco porque me parecieron interesantes).
 
+## Lenguajes
+
 ![My Skill](https://skillicons.dev/icons?i=html)
 ![My Skill](https://skillicons.dev/icons?i=css)
+![My Skill](https://skillicons.dev/icons?i=sass)
 ![My Skill](https://skillicons.dev/icons?i=js)
 ![My Skill](https://skillicons.dev/icons?i=ts)
+![My Skill](https://skillicons.dev/icons?i=graphql)
+
+# Entornos de ejecución
+
+![My Skill](https://skillicons.dev/icons?i=nodejs)
+![My Skill](https://skillicons.dev/icons?i=deno)
+![My Skill](https://skillicons.dev/icons?i=bun)
+
+# Frameworks
+
+![My Skill](https://skillicons.dev/icons?i=express)
 ![My Skill](https://skillicons.dev/icons?i=nest)
 ![My Skill](https://skillicons.dev/icons?i=next)
-![My Skill](https://skillicons.dev/icons?i=sass)
-![My Skill](https://skillicons.dev/icons?i=nodejs)
-![My Skill](https://skillicons.dev/icons?i=express)
-![My Skill](https://skillicons.dev/icons?i=deno)
 ![My Skill](https://skillicons.dev/icons?i=react)
+![My Skill](https://skillicons.dev/icons?i=angular)
+![My Skill](https://skillicons.dev/icons?i=astro)
+![My Skill](https://skillicons.dev/icons?i=tailwind)
+
+# Bases de datos & ORMs
+![My Skill](https://skillicons.dev/icons?i=prisma)
+![My Skill](https://skillicons.dev/icons?i=mongo)
 
 # 🍂 Proyectos
 
