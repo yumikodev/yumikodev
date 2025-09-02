@@ -68,4 +68,4 @@ Mayormente uso un alias en internet para evitar usar mi nombre real (esto no ser
 
 Eso es todo! supongo...
 
-- [💻 Sitio Web](https://yasuyumiko.ml)
+- [💻 Sitio Web](https://yumikodev.vercel.app/)
